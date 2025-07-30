@@ -177,7 +177,7 @@ export const CONTACT_INFO = {
   },
   email: {
     label: "Email",
-    value: "info@vastuspaze.com",
+    value: "info@varnivo.com",
   },
   address: {
     label: "Address",
