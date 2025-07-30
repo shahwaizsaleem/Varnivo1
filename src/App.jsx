@@ -1,7 +1,7 @@
 import React from 'react';
-import Navbar from './components/navbar';
+import Navbar from './components/Navbar';
 import 'remixicon/fonts/remixicon.css' 
-import Hero from './components/hero';
+import Hero from './components/Hero';
 import Services from './components/Services';
 import Portfolio from './components/Portfolio';
 import About from './components/About';
